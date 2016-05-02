@@ -16,3 +16,6 @@ branches help in giving alternate versions of your project. They might be experi
 
 How do the diagrams help you visualize the branch structure?
 They make us realize unreachable branches and let us be careful when creating commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We merge to combine two different codes and features that may be added to the project in different branches. Representing it in a diagram helps us realise the parent commits and unreachable branches.
