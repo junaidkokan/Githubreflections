@@ -19,3 +19,6 @@ They make us realize unreachable branches and let us be careful when creating co
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We merge to combine two different codes and features that may be added to the project in different branches. Representing it in a diagram helps us realise the parent commits and unreachable branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging helps small code changes and bug fixes that have not been worked by multiple users. If many users have modified the same part of code, then it is better to solve this with human intervention. This is done exactly by git.
