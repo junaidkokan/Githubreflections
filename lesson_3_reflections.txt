@@ -3,3 +3,6 @@ I would use it when I handle multiple computesr or there are multiple users work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It is logical to pull changes as a whole rather than updating incomplete work from GitHub. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are used to copy a repository from one Github account to another. Clones are used to copy a repository from GitHub to local machine or from one place to another within localmachine. Branches are just one repository with different features.
