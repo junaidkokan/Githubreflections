@@ -13,3 +13,6 @@ commiting as a bulk. This is the use of staging area.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 branches help in giving alternate versions of your project. They might be experimental versions of software
+
+How do the diagrams help you visualize the branch structure?
+They make us realize unreachable branches and let us be careful when creating commits.
