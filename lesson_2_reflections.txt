@@ -1,14 +1,12 @@
-What happens when you initialize a repository?
-Why do you need to do it?
-When a repository is initialised, a .git file is created.
-It is needed to track the versions of the file
-that undergoes changes.
+What happens when you initialize a repository? Why do you need to do it?
+When a repository is initialised, a .git file is created. It is needed to track the
+versions of the file that undergoes changes.
 
-How is the staging area different from the
-working directory and the repository?
+How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-Staging area is an intermediate stage between
-untracked files and tracked files. Files are
-added there before commit is made. 
-This helps to bundle commits of multiple
-files together.
+Staging area is an intermediate stage between untracked files and tracked files. Files are added there before commit is made. This helps to bundle commits of multiple files together.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+We must add all the files to staging area and them group them by 
+commiting as a bulk. This is the use of staging area.
