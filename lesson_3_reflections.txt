@@ -9,3 +9,6 @@ Forks are used to copy a repository from one Github account to another. Clones a
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This helps us to manage the conflicts and merge to have an up-to-date file. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I woul;d collaborate using general google drive. It has just basic features which will cause confusion as to which is the latest file and cause conflicts
