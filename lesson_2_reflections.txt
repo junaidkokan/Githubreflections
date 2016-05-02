@@ -10,3 +10,6 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 We must add all the files to staging area and them group them by 
 commiting as a bulk. This is the use of staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches help in giving alternate versions of your project. They might be experimental versions of software
